@@ -1,5 +1,5 @@
 <img src="foto_luffy.jpg"/>
-<h1 style="font-family:Chela One;">Para mais informações meu currículo abaixo!</h1>
+<h1 style="font:Chela One;">Para mais informações meu currículo abaixo!</h1>
 <a href="Currículo.v1.pdf" dowload="Currículo" type="application/pdf">Currículo</a>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
