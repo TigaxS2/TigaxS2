@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Chela+One&display=swap');
 <img src="foto_luffy.jpg"/>
 <h1 style="font-family:Chela One;">Para mais informações meu currículo abaixo!</h1>
 <a href="Currículo.v1.pdf" dowload="Currículo" type="application/pdf">Currículo</a>
